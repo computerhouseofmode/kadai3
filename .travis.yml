@@ -2,6 +2,6 @@ language: generic
 script:
 
   - bash ./15746137 25 100 ="25";echo $?
-  - bash ./15746137 6 7 ="1";echo $?
+  - bash ./15746137 6 9 ="3";echo $?
   - bash ./15746137 24 36 ="12";echo $?
 
