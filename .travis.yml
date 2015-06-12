@@ -1,8 +1,8 @@
 language: generic
 script:
 
-  - bash ./gcd_test.bash 25 100 25
-  - bash ./gcd_test.bash 21 63 7
-  - bash ./gcd_test.bash 720 3 3
+  - bash gcd_test.bash 25 100 25
+  - bash gcd_test.bash 21 63 7
+  - bash gcd_test.bash 720 3 3
   
 
