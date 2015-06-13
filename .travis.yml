@@ -1,4 +1,8 @@
 language: generic
+
+before_script:
+ - chmod +x 15746137
+ 
 script:
 
   - bash test.bash 75 100 25
