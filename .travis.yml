@@ -1,7 +1,5 @@
 language: generic
 script:
 
-  - bash gcd_test.bash 25 100 25
-
-  
+  - bash gcd_test.bash 75 100 25
 
