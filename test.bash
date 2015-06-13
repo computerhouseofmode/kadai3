@@ -13,6 +13,6 @@ dd=`./15746137 ${aa} ${bb}`
 if [ ${dd} -eq ${cc} ] ;then
  echo "OK";exit 0
 else
- echo "NG";exit 1
+ echo "NG";exit 10
 fi
 
